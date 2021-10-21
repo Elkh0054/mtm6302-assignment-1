@@ -7,7 +7,5 @@ for (const emoji of emojis) {
 
 $container.innerHTML = items.join('')
 
-
-
 $container.innerHTML = $container.innerHTML 
 
