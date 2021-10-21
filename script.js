@@ -9,8 +9,5 @@ $container.innerHTML = items.join('')
 
 
 
-
-
-
-$container.innerHTML = $container.innerHTML + list
+$container.innerHTML = $container.innerHTML 
 
