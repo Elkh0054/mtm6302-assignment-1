@@ -30,3 +30,9 @@ li {
     align-items: center;
 
 }
+
+
+
+#items li :last-child {
+    font-size: 20px;
+}
